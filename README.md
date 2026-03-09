@@ -1,8 +1,7 @@
 # Hey, I'm Turki 👋
 
-I'm an MIS student based in Riyadh, Saudi Arabia, transitioning into Data Engineering. I care about how data moves, gets cleaned, and becomes something a business can actually use.
-
-Right now I'm focused on writing production-quality T-SQL — structured, commented, and built with real engineering standards in mind.
+I'm an MIS student with a focus on Data Engineering. 
+I care about how data moves, gets cleaned, and becomes something a business can actually use.
 
 ---
 
@@ -20,9 +19,9 @@ I'm working through Danny Ma's [8-Week SQL Challenge](https://8weeksqlchallenge.
 
 ## Tools
 
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)](#)
+![T-SQL](https://img.shields.io/badge/T--SQL-005C84?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 
 ---
 
@@ -34,11 +33,10 @@ ETL pipeline patterns · Staging table design · Subscription analytics & recurs
 
 ## Up Next
 
-![Python](https://img.shields.io/badge/Python-up_next-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-up_next-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/turki-alajmi)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/turki-alajmi-data/)
