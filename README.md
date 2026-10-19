@@ -7,9 +7,9 @@ I write the SQL that turns raw data into something a business can use, and I bui
 
 ## Projects
 
-**[Azure Infrastructure with Terraform](https://github.com/turki-alajmi/azure-terraform-environment)**: Dev and prod Azure environments built from shared Terraform modules (network, compute, governance). Includes a segmented VNet with NSG rules and jump-host SSH access, Azure Policy for allowed regions and required tags, Entra ID groups with least-privilege RBAC, remote state in Azure Storage, and a CI pipeline running `fmt`, `validate` and TFLint.
+**[Azure Infrastructure with Terraform](https://github.com/turki-alhumaid/azure-terraform-environment)**: Dev and prod Azure environments built from shared Terraform modules (network, compute, governance). Includes a segmented VNet with NSG rules and jump-host SSH access, Azure Policy for allowed regions and required tags, Entra ID groups with least-privilege RBAC, remote state in Azure Storage, and a CI pipeline running `fmt`, `validate` and TFLint.
 
-**[8-Week SQL Challenge in T-SQL](https://github.com/turki-alajmi/8-week-sql-challenge-tsql)**: Five case studies in SQL Server covering data cleaning, funnel analysis and subscription analytics, each with ERDs, documented query logic and production notes.
+**[8-Week SQL Challenge in T-SQL](https://github.com/turki-alhumaid/8-week-sql-challenge-tsql)**: Five case studies in SQL Server covering data cleaning, funnel analysis and subscription analytics, each with ERDs, documented query logic and production notes.
 
 ---
 
@@ -32,4 +32,4 @@ I write the SQL that turns raw data into something a business can use, and I bui
 
 ## Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/turki-alajmi-data/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/turki-alhumaid-data/)
